@@ -1,0 +1,11 @@
+{
+  "name": "Blarox",
+  "symbol": "BLX",
+  "type": "ERC20",
+  "decimals": 18
+  "description": "The Blackened Stone forged on Ethereum.",
+  "website": "https://blarox.xyz",
+  "explorer": "https://etherscan.io/token/0xd1a51c40e68c341e22368ab8abde35879e1f5429/",
+  "status": "active",
+  "id": "blarox"
+}
